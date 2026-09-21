@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-const fallbackOrigin = "https://mehrkhodro.co";
+const fallbackOrigin = "https://mehrmobility.com";
 
 function validOrigin(value: string | undefined) {
   try {
