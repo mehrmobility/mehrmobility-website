@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.DS_Store
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+# Runtime CMS database and copied public media are recreated from migrations
+# and seed scripts. Never commit customer or operator runtime state.
+data/

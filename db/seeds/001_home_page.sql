@@ -1,0 +1,4 @@
+INSERT OR IGNORE INTO cms_documents (id,kind,slug,locale,status,published_revision_id,created_by,created_at,updated_at)
+VALUES ('page-home','page','home','fa-IR','published','revision-home-1','system-seed',datetime('now'),datetime('now'));
+INSERT OR IGNORE INTO cms_document_revisions (id,document_id,revision_no,body_json,seo_json,created_by,created_at)
+VALUES ('revision-home-1','page-home',1,'{"hero":{"eyebrow":"از انتخاب، تا هر کیلومتر بعد","title":"انتخاب شما.","accent":"تعهد مهر.","description":"خودروهای صفر و کارکرده وارداتی را با اطلاعات شفاف بررسی کنید؛ از انتخاب تا خدمات، همراه شما هستیم.","primaryLabel":"خودروی خود را پیدا کنید","primaryHref":"/mehr/cars","secondaryLabel":"راهنمای واردات","secondaryHref":"/mehr/import","footnote":"از سال ۱۳۹۱، در کنار شما"}}','{"title":"مهر خودرو | انتخاب شما، تعهد مهر"}','system-seed',datetime('now'));

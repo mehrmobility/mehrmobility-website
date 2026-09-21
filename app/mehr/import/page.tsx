@@ -1,0 +1,6 @@
+import Link from "next/link";
+import type { Metadata } from "next";
+import { importTopicSlugs, importTopics } from "@/lib/mehr-site/import-guides";
+
+export const metadata: Metadata = { title: "واردات خودرو صفر و کارکرده | پلاک منطقه آزاد", description: "راهنمای عمومی واردات خودرو صفر و کارکرده، پلاک مناطق آزاد، پلاک ملی و ایرانیان مقیم خارج.", keywords: ["واردات خودرو صفر", "واردات خودرو کارکرده", "پلاک منطقه آزاد", "پلاک ملی", "واردات خودرو مقیم خارج"] };
+export default function ImportIndex() { return <main className="mi-page"><section className="mi-hero"><span>MEHR / IMPORT GUIDE</span><h1>راهنمای واردات خودرو<br/><em>صفر و کارکرده</em></h1><p>نقطه شروع برای شناخت مسیرهای واردات خودرو صفر و کارکرده و پرسش‌های مربوط به پلاک منطقه آزاد، پلاک ملی و ایرانیان مقیم خارج.</p></section><section className="mi-grid">{importTopicSlugs.map(slug => { const topic = importTopics[slug]; return <Link key={slug} href={`/mehr/import/${slug}`}><small>{topic.service ? "راهنما و خدمات مهر" : "راهنمای عمومی"}</small><h2>{topic.title}</h2><p>{topic.service ? "اطلاعات خودرو، خدمات و راه‌های ارتباط با مهر خودرو." : "ضوابط نهایی را از مرجع رسمی و منطقه مربوطه استعلام کنید."}</p><b>مشاهده راهنما ←</b></Link>; })}</section></main>; }

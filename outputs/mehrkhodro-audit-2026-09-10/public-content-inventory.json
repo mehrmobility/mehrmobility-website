@@ -1,0 +1,986 @@
+{
+  "source": "https://mehrkhodro.co/",
+  "audit_date": "2026-09-10",
+  "scope": "Published public sitemaps and content metadata only. Author sitemap excluded.",
+  "sitemaps": {
+    "https://mehrkhodro.co/wp-sitemap-posts-post-1.xml": [
+      "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-kia-k5-%d8%aa%d9%88%d8%b1%d8%a8%d9%88/",
+      "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d8%a7%d9%84%d9%86%d8%aa%d8%b1%d8%a7/",
+      "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d9%85%d8%b1%db%8c-%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88/",
+      "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d8%b3%d9%88%d9%86%d8%a7%d8%aa%d8%a7/",
+      "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%da%a9%db%8c%d8%a7-%d8%a7%d8%b3%d9%be%d9%88%d8%b1%d8%aa%db%8c%d8%ac-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d8%b1%d9%88%d9%84%d8%a7-2026-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%af%d8%b1-%d8%b3%db%8c%d8%b2%d8%af%d9%87%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d8%ae/",
+      "https://mehrkhodro.co/%d9%84%d8%ba%d9%88-%d8%aa%d8%b1%d8%af%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88%d9%87%d8%a7%db%8c-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84/",
+      "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d9%82%d8%b4%d9%82%d8%a7%db%8c%db%8c-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%da%86%d8%a7%d9%86%da%af%d8%a7%d9%86-x5-plus-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-posts-page-1.xml": [
+      "https://mehrkhodro.co/%d8%a8%d8%b1%da%af%d9%87-%d9%86%d9%85%d9%88%d9%86%d9%87/",
+      "https://mehrkhodro.co/shop/",
+      "https://mehrkhodro.co/cart/",
+      "https://mehrkhodro.co/checkout/",
+      "https://mehrkhodro.co/my-account/",
+      "https://mehrkhodro.co/",
+      "https://mehrkhodro.co/about-us/",
+      "https://mehrkhodro.co/contact-us/",
+      "https://mehrkhodro.co/search/",
+      "https://mehrkhodro.co/notifications/",
+      "https://mehrkhodro.co/nissan-navara/",
+      "https://mehrkhodro.co/register-numberplate/",
+      "https://mehrkhodro.co/%d8%a7%d9%85%d9%88%d8%b1-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86/",
+      "https://mehrkhodro.co/%d8%a2%db%8c%db%8c%d9%86-%d8%ad%d9%85%d8%a7%db%8c%d8%aa-%d8%a7%d8%b2-%d8%ad%d9%82%d9%88%d9%82-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86/",
+      "https://mehrkhodro.co/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86/",
+      "https://mehrkhodro.co/%d8%b1%d8%a7%d9%87-%d9%87%d8%a7%db%8c-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7%db%8c/",
+      "https://mehrkhodro.co/%d9%86%d8%b8%d8%b1-%d8%b3%d9%86%d8%ac%db%8c/",
+      "https://mehrkhodro.co/%d8%b4%da%a9%d8%a7%db%8c%d8%aa-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86/",
+      "https://mehrkhodro.co/blog/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-posts-car-1.xml": [
+      "https://mehrkhodro.co/car/t60-comfort/",
+      "https://mehrkhodro.co/car/l200/",
+      "https://mehrkhodro.co/car/hilux-adv/",
+      "https://mehrkhodro.co/car/hilux-grs/",
+      "https://mehrkhodro.co/car/t60-elite/",
+      "https://mehrkhodro.co/car/hilux-sr5/",
+      "https://mehrkhodro.co/car/sylphy/",
+      "https://mehrkhodro.co/car/levin/",
+      "https://mehrkhodro.co/car/camry/",
+      "https://mehrkhodro.co/car/corolla-cross/",
+      "https://mehrkhodro.co/car/rav4/",
+      "https://mehrkhodro.co/car/grand-vitara/",
+      "https://mehrkhodro.co/car/fronx/",
+      "https://mehrkhodro.co/car/highlander/",
+      "https://mehrkhodro.co/car/x-trail/",
+      "https://mehrkhodro.co/car/poer/",
+      "https://mehrkhodro.co/car/frontlander/",
+      "https://mehrkhodro.co/car/elantra/",
+      "https://mehrkhodro.co/car/sonata/",
+      "https://mehrkhodro.co/car/k3/",
+      "https://mehrkhodro.co/car/k5/",
+      "https://mehrkhodro.co/car/sportage/",
+      "https://mehrkhodro.co/car/kx1/",
+      "https://mehrkhodro.co/car/qashqai/",
+      "https://mehrkhodro.co/car/corolla/",
+      "https://mehrkhodro.co/car/outlander-h/",
+      "https://mehrkhodro.co/car/outlander-p/",
+      "https://mehrkhodro.co/car/changan-x5-plus/",
+      "https://mehrkhodro.co/car/k4/",
+      "https://mehrkhodro.co/car/attrage/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-posts-service-1.xml": [
+      "https://mehrkhodro.co/service/%d8%aa%d8%b9%d9%88%db%8c%d8%b6-%d8%b1%d9%88%d8%ba%d9%86/",
+      "https://mehrkhodro.co/service/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c/",
+      "https://mehrkhodro.co/service/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%d9%88%d8%a7%d8%b4/",
+      "https://mehrkhodro.co/service/%d8%aa%d8%ba%db%8c%db%8c%d8%b1-%d8%b1%d9%86%da%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/",
+      "https://mehrkhodro.co/service/%d8%af%db%8c%d8%a8%d8%a7%da%af-%d9%88-%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c/",
+      "https://mehrkhodro.co/service/1392/",
+      "https://mehrkhodro.co/service/%d8%aa%d8%b2%d8%a6%db%8c%d9%86%d8%a7%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-posts-notifications-1.xml": [
+      "https://mehrkhodro.co/notifications/%d9%be%db%8c%d8%a7%d9%85-%d9%85%d8%af%db%8c%d8%b1%d8%b9%d8%a7%d9%85%d9%84-%d8%b4%d8%b1%da%a9%d8%aa/",
+      "https://mehrkhodro.co/notifications/%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%81%d8%b1%d9%88%d8%b4-%da%a9%d8%af01/",
+      "https://mehrkhodro.co/notifications/%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%da%a9%d8%af02/",
+      "https://mehrkhodro.co/notifications/%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%81%d8%b1%d9%88%d8%b4-%da%a9%d8%af-03/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-category-1.xml": [
+      "https://mehrkhodro.co/category/blog/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-post_tag-1.xml": [
+      "https://mehrkhodro.co/tag/%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88/",
+      "https://mehrkhodro.co/tag/%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86%db%8c%d8%a7%d9%86/",
+      "https://mehrkhodro.co/tag/%d8%a7%d9%88%d9%84%db%8c%d9%86-%d9%88%d8%a7%d8%b1%d8%af%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2/",
+      "https://mehrkhodro.co/tag/%d8%a8%d8%b2%d8%b1%da%af%d8%aa%d8%b1%db%8c%d9%86-%d9%88%d8%a7%d8%b1%d8%af%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82/",
+      "https://mehrkhodro.co/tag/%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%ae%d9%88%d8%af%d8%b1%d9%88%db%8c-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa%db%8c-%da%af%db%8c%d9%84%d8%a7%d9%86/",
+      "https://mehrkhodro.co/tag/%d8%ae%d9%88%d8%af%d8%b1%d9%88%db%8c-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa%db%8c-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%aa%d8%ad%d9%88%db%8c%d9%84-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%af%d8%b1-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88%d9%87%d8%a7%db%8c-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7%d8%8c-%da%a9%db%8c%d8%a7%d8%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d9%88-%d9%86/",
+      "https://mehrkhodro.co/tag/%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d8%a7%d9%84%d9%86%d8%aa%d8%b1%d8%a7-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7/",
+      "https://mehrkhodro.co/tag/%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88%db%8c-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d9%85%d8%b1%db%8c-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2/",
+      "https://mehrkhodro.co/tag/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d8%b1%db%8c%d8%af-%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84/",
+      "https://mehrkhodro.co/tag/%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%d8%ae%d8%b1%db%8c%d8%af-%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d8%b3%d9%88%d9%86%d8%a7%d8%aa%d8%a7-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7/",
+      "https://mehrkhodro.co/tag/%d8%b1%d8%b4%d8%aa/",
+      "https://mehrkhodro.co/tag/%da%af%db%8c%d9%84%d8%a7%d9%86/",
+      "https://mehrkhodro.co/tag/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%da%a9%db%8c%d8%a7-%d8%a7%d8%b3%d9%be%d9%88%d8%b1%d8%aa%db%8c%d8%ac-2025-%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85/",
+      "https://mehrkhodro.co/tag/%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d8%b1%d9%88%d9%84%d8%a7-%d8%a8%d8%a7-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86/",
+      "https://mehrkhodro.co/tag/%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d8%b1%d9%88%d9%84%d8%a7-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2/",
+      "https://mehrkhodro.co/tag/%da%a9%d8%b1%d9%88%d9%84%d8%a7-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%b3%db%8c%d8%b2%d8%af%d9%87%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%af%d8%b1-%da%af%db%8c%d9%84%d8%a7/",
+      "https://mehrkhodro.co/tag/%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d9%82%d8%b4%d9%82%d8%a7%db%8c%db%8c/",
+      "https://mehrkhodro.co/tag/%d9%82%d8%b4%d9%82%d8%a7%db%8c%db%8c/",
+      "https://mehrkhodro.co/tag/%d9%86%db%8c%d8%b3%d8%a7%d9%86/",
+      "https://mehrkhodro.co/tag/%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d9%82%d8%b4%d9%82%d8%a7%db%8c%db%8c-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%ae%d8%b1%db%8c%d8%af-%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa%db%8c/",
+      "https://mehrkhodro.co/tag/%d9%82%db%8c%d9%85%d8%aa-%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d9%82%d8%b4%d9%82%d8%a7%db%8c%db%8c-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2/",
+      "https://mehrkhodro.co/tag/%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d9%82%d8%b4%d9%82%d8%a7%db%8c%db%8c-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2/",
+      "https://mehrkhodro.co/tag/%d9%82%db%8c%d9%85%d8%aa-%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%d8%ae%d8%b1%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%da%86%d8%a7%d9%86%da%af%d8%a7%d9%86-x5-plus-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+      "https://mehrkhodro.co/tag/%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d8%b1%db%8c%d8%af-%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa%db%8c/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-make-year-1.xml": [
+      "https://mehrkhodro.co/make-year/2023/",
+      "https://mehrkhodro.co/make-year/2024/",
+      "https://mehrkhodro.co/make-year/2025/",
+      "https://mehrkhodro.co/make-year/2026/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-car-cuntery-1.xml": [
+      "https://mehrkhodro.co/car-cuntery/%d8%aa%d8%a7%db%8c%d9%84%d9%86%d8%af/",
+      "https://mehrkhodro.co/car-cuntery/%da%86%db%8c%d9%86/",
+      "https://mehrkhodro.co/car-cuntery/%d9%87%d9%86%d8%af/",
+      "https://mehrkhodro.co/car-cuntery/%da%98%d8%a7%d9%be%d9%86/",
+      "https://mehrkhodro.co/car-cuntery/%d9%85%da%a9%d8%b2%db%8c%da%a9/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-car-fuel-1.xml": [
+      "https://mehrkhodro.co/car-fuel/%d8%a8%d9%86%d8%b2%db%8c%d9%86/",
+      "https://mehrkhodro.co/car-fuel/%d9%87%d8%a7%db%8c%d8%a8%d8%b1%db%8c%d8%af/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-car-gearbox-1.xml": [
+      "https://mehrkhodro.co/car-gearbox/%d8%af%d8%b3%d8%aa%db%8c/",
+      "https://mehrkhodro.co/car-gearbox/%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9/",
+      "https://mehrkhodro.co/car-gearbox/e-cvt/",
+      "https://mehrkhodro.co/car-gearbox/cvt/",
+      "https://mehrkhodro.co/car-gearbox/dct/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-car-color-1.xml": [
+      "https://mehrkhodro.co/car-color/%d8%b3%d9%81%db%8c%d8%af/",
+      "https://mehrkhodro.co/car-color/%d9%85%d8%b4%da%a9%db%8c/",
+      "https://mehrkhodro.co/car-color/%d9%85%d8%aa%d8%a7%d9%84%db%8c%da%a9/",
+      "https://mehrkhodro.co/car-color/%d9%82%d8%b1%d9%85%d8%b2/",
+      "https://mehrkhodro.co/car-color/%d8%a2%d8%a8%db%8c/",
+      "https://mehrkhodro.co/car-color/%d8%ae%d8%a7%da%a9%d8%b3%d8%aa%d8%b1%db%8c/",
+      "https://mehrkhodro.co/car-color/%d9%86%d9%82%d8%b1%d9%87-%d8%a7%db%8c/",
+      "https://mehrkhodro.co/car-color/%d9%86%d8%a7%d8%b1%d9%86%d8%ac%db%8c/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-car-body-1.xml": [
+      "https://mehrkhodro.co/car-body/%d8%b3%d8%af%d8%a7%d9%86/",
+      "https://mehrkhodro.co/car-body/%d8%b4%d8%a7%d8%b3%db%8c-%d8%a8%d9%84%d9%86%d8%af/",
+      "https://mehrkhodro.co/car-body/%d9%be%db%8c%da%a9%d8%a7%d9%be/",
+      "https://mehrkhodro.co/car-body/%da%a9%d8%b1%d8%a7%d8%b3-%d8%a7%d9%88%d8%b1/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-type-car-1.xml": [
+      "https://mehrkhodro.co/type-car/%d8%b5%d9%81%d8%b1/"
+    ],
+    "https://mehrkhodro.co/wp-sitemap-taxonomies-car-brand-1.xml": [
+      "https://mehrkhodro.co/car-brand/toyota/",
+      "https://mehrkhodro.co/car-brand/nissan/",
+      "https://mehrkhodro.co/car-brand/mitsubishi/",
+      "https://mehrkhodro.co/car-brand/mg/",
+      "https://mehrkhodro.co/car-brand/suzuki/",
+      "https://mehrkhodro.co/car-brand/gwm/",
+      "https://mehrkhodro.co/car-brand/hyundai/",
+      "https://mehrkhodro.co/car-brand/kia/",
+      "https://mehrkhodro.co/car-brand/changan/"
+    ]
+  },
+  "content": [
+    {
+      "type": "pages",
+      "total": null,
+      "records": [
+        {
+          "id": 4647,
+          "date": "2026-05-30T17:06:14",
+          "modified": "2026-05-30T17:06:17",
+          "slug": "nissan-navara",
+          "link": "https://mehrkhodro.co/nissan-navara/",
+          "title": {
+            "rendered": "NISSAN NAVARA"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 6030,
+          "date": "2026-02-26T11:03:42",
+          "modified": "2026-02-26T11:03:47",
+          "slug": "blog",
+          "link": "https://mehrkhodro.co/blog/",
+          "title": {
+            "rendered": "اخبار و مقالات خودرویی"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 5800,
+          "date": "2025-12-25T09:48:44",
+          "modified": "2025-12-29T14:56:17",
+          "slug": "%d8%b4%da%a9%d8%a7%db%8c%d8%aa-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86",
+          "link": "https://mehrkhodro.co/%d8%b4%da%a9%d8%a7%db%8c%d8%aa-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86/",
+          "title": {
+            "rendered": "شکایت مشتریان"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 5796,
+          "date": "2025-12-25T09:47:09",
+          "modified": "2025-12-29T14:51:39",
+          "slug": "%d9%86%d8%b8%d8%b1-%d8%b3%d9%86%d8%ac%db%8c",
+          "link": "https://mehrkhodro.co/%d9%86%d8%b8%d8%b1-%d8%b3%d9%86%d8%ac%db%8c/",
+          "title": {
+            "rendered": "نظر سنجی"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 5794,
+          "date": "2025-12-25T09:41:24",
+          "modified": "2025-12-25T09:41:30",
+          "slug": "%d8%b1%d8%a7%d9%87-%d9%87%d8%a7%db%8c-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7%db%8c",
+          "link": "https://mehrkhodro.co/%d8%b1%d8%a7%d9%87-%d9%87%d8%a7%db%8c-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7%db%8c/",
+          "title": {
+            "rendered": "راه های ارتباطی"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 5792,
+          "date": "2025-12-25T09:39:56",
+          "modified": "2025-12-25T09:40:03",
+          "slug": "%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86",
+          "link": "https://mehrkhodro.co/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86/",
+          "title": {
+            "rendered": "سامانه ارتباط با مشتریان"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 5790,
+          "date": "2025-12-25T09:38:53",
+          "modified": "2025-12-25T09:39:00",
+          "slug": "%d8%a2%db%8c%db%8c%d9%86-%d8%ad%d9%85%d8%a7%db%8c%d8%aa-%d8%a7%d8%b2-%d8%ad%d9%82%d9%88%d9%82-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86",
+          "link": "https://mehrkhodro.co/%d8%a2%db%8c%db%8c%d9%86-%d8%ad%d9%85%d8%a7%db%8c%d8%aa-%d8%a7%d8%b2-%d8%ad%d9%82%d9%88%d9%82-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86/",
+          "title": {
+            "rendered": "آیین حمایت از حقوق مشتریان"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 5784,
+          "date": "2025-12-24T17:53:36",
+          "modified": "2025-12-24T17:53:42",
+          "slug": "%d8%a7%d9%85%d9%88%d8%b1-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86",
+          "link": "https://mehrkhodro.co/%d8%a7%d9%85%d9%88%d8%b1-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86/",
+          "title": {
+            "rendered": "امور مشتریان"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 5508,
+          "date": "2025-10-06T11:40:24",
+          "modified": "2025-10-18T15:39:56",
+          "slug": "register-numberplate",
+          "link": "https://mehrkhodro.co/register-numberplate/",
+          "title": {
+            "rendered": "تبدیل پلاک منطقه آزاد به ملی"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 1324,
+          "date": "2023-07-30T15:15:38",
+          "modified": "2025-11-11T17:12:44",
+          "slug": "notifications",
+          "link": "https://mehrkhodro.co/notifications/",
+          "title": {
+            "rendered": "اطلاعیه ها"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 1283,
+          "date": "2023-07-30T14:55:31",
+          "modified": "2023-10-05T11:35:56",
+          "slug": "search",
+          "link": "https://mehrkhodro.co/search/",
+          "title": {
+            "rendered": "جستجو"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 947,
+          "date": "2023-07-25T18:16:52",
+          "modified": "2026-08-23T14:54:16",
+          "slug": "contact-us",
+          "link": "https://mehrkhodro.co/contact-us/",
+          "title": {
+            "rendered": "تماس با ما"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 874,
+          "date": "2023-07-25T16:25:07",
+          "modified": "2026-05-25T12:01:43",
+          "slug": "about-us",
+          "link": "https://mehrkhodro.co/about-us/",
+          "title": {
+            "rendered": "درباره ما"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 16,
+          "date": "2023-07-20T14:20:19",
+          "modified": "2026-09-09T14:50:48",
+          "slug": "home-page",
+          "link": "https://mehrkhodro.co/",
+          "title": {
+            "rendered": "صفحه اصلی"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 14,
+          "date": "2023-07-20T14:15:53",
+          "modified": "2023-10-05T14:47:19",
+          "slug": "my-account",
+          "link": "https://mehrkhodro.co/my-account/",
+          "title": {
+            "rendered": "حساب کاربری من"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 13,
+          "date": "2023-07-20T14:15:53",
+          "modified": "2023-10-05T08:34:44",
+          "slug": "checkout",
+          "link": "https://mehrkhodro.co/checkout/",
+          "title": {
+            "rendered": "پرداخت"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 12,
+          "date": "2023-07-20T14:15:53",
+          "modified": "2023-10-05T08:31:55",
+          "slug": "cart",
+          "link": "https://mehrkhodro.co/cart/",
+          "title": {
+            "rendered": "سبد خرید"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 11,
+          "date": "2023-07-20T14:15:53",
+          "modified": "2025-11-11T17:31:20",
+          "slug": "shop",
+          "link": "https://mehrkhodro.co/shop/",
+          "title": {
+            "rendered": "فروشگاه"
+          },
+          "featured_media": 0
+        },
+        {
+          "id": 2,
+          "date": "2023-07-15T09:13:33",
+          "modified": "2025-11-11T17:21:50",
+          "slug": "%d8%a8%d8%b1%da%af%d9%87-%d9%86%d9%85%d9%88%d9%86%d9%87",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%da%af%d9%87-%d9%86%d9%85%d9%88%d9%86%d9%87/",
+          "title": {
+            "rendered": "برگه نمونه"
+          },
+          "featured_media": 0
+        }
+      ]
+    },
+    {
+      "type": "posts",
+      "total": null,
+      "records": [
+        {
+          "id": 6512,
+          "date": "2026-08-16T14:37:56",
+          "modified": "2026-08-16T15:22:35",
+          "slug": "%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%da%86%d8%a7%d9%86%da%af%d8%a7%d9%86-x5-plus-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%da%86%d8%a7%d9%86%da%af%d8%a7%d9%86-x5-plus-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+          "title": {
+            "rendered": "بررسی چانگان X5 PLUS | منطقه آزاد انزلی"
+          },
+          "featured_media": 6513
+        },
+        {
+          "id": 6456,
+          "date": "2026-07-05T12:14:18",
+          "modified": "2026-08-20T10:18:00",
+          "slug": "%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d9%82%d8%b4%d9%82%d8%a7%db%8c%db%8c-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d9%82%d8%b4%d9%82%d8%a7%db%8c%db%8c-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+          "title": {
+            "rendered": "بررسی نیسان قشقایی | منطقه آزاد انزلی"
+          },
+          "featured_media": 6457
+        },
+        {
+          "id": 6448,
+          "date": "2026-06-30T17:05:52",
+          "modified": "2026-06-30T17:05:55",
+          "slug": "%d9%84%d8%ba%d9%88-%d8%aa%d8%b1%d8%af%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88%d9%87%d8%a7%db%8c-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84",
+          "link": "https://mehrkhodro.co/%d9%84%d8%ba%d9%88-%d8%aa%d8%b1%d8%af%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88%d9%87%d8%a7%db%8c-%d9%be%d9%84%d8%a7%da%a9-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84/",
+          "title": {
+            "rendered": "لغو تردد خودروهای پلاک منطقه آزاد انزلی در خارج از محدوده!"
+          },
+          "featured_media": 6449
+        },
+        {
+          "id": 6355,
+          "date": "2026-06-14T12:29:13",
+          "modified": "2026-06-14T13:27:14",
+          "slug": "%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%af%d8%b1-%d8%b3%db%8c%d8%b2%d8%af%d9%87%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d8%ae",
+          "link": "https://mehrkhodro.co/%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%af%d8%b1-%d8%b3%db%8c%d8%b2%d8%af%d9%87%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d8%ae/",
+          "title": {
+            "rendered": "مهر خودرو در سیزدهمین نمایشگاه تخصصی خودرو در گیلان"
+          },
+          "featured_media": 6356
+        },
+        {
+          "id": 6166,
+          "date": "2026-05-16T09:19:25",
+          "modified": "2026-06-04T08:34:41",
+          "slug": "%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d8%b1%d9%88%d9%84%d8%a7-2026-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d8%b1%d9%88%d9%84%d8%a7-2026-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+          "title": {
+            "rendered": "بررسی تویوتا کرولا 2026 | منطقه آزاد انزلی"
+          },
+          "featured_media": 6341
+        },
+        {
+          "id": 6115,
+          "date": "2026-05-10T15:25:47",
+          "modified": "2026-05-10T16:52:46",
+          "slug": "%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%da%a9%db%8c%d8%a7-%d8%a7%d8%b3%d9%be%d9%88%d8%b1%d8%aa%db%8c%d8%ac-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%da%a9%db%8c%d8%a7-%d8%a7%d8%b3%d9%be%d9%88%d8%b1%d8%aa%db%8c%d8%ac-%d9%85%d9%86%d8%b7%d9%82%d9%87-%d8%a2%d8%b2%d8%a7%d8%af-%d8%a7%d9%86%d8%b2%d9%84%db%8c/",
+          "title": {
+            "rendered": "بررسی کیا اسپورتیج | منطقه آزاد انزلی"
+          },
+          "featured_media": 6129
+        },
+        {
+          "id": 6091,
+          "date": "2026-05-06T09:59:26",
+          "modified": "2026-05-10T16:55:42",
+          "slug": "%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d8%b3%d9%88%d9%86%d8%a7%d8%aa%d8%a7",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d8%b3%d9%88%d9%86%d8%a7%d8%aa%d8%a7/",
+          "title": {
+            "rendered": "بررسی هیوندای سوناتا | منطقه آزاد انزلی"
+          },
+          "featured_media": 6102
+        },
+        {
+          "id": 6047,
+          "date": "2026-04-28T15:13:09",
+          "modified": "2026-05-10T16:54:26",
+          "slug": "%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d9%85%d8%b1%db%8c-%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7-%da%a9%d9%85%d8%b1%db%8c-%d9%85%d9%87%d8%b1-%d8%ae%d9%88%d8%af%d8%b1%d9%88/",
+          "title": {
+            "rendered": "بررسی تویوتا کمری | منطقه آزاد انزلی"
+          },
+          "featured_media": 6048
+        },
+        {
+          "id": 6026,
+          "date": "2026-02-26T09:57:23",
+          "modified": "2026-05-10T16:54:36",
+          "slug": "%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d8%a7%d9%84%d9%86%d8%aa%d8%b1%d8%a7",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-%d8%a7%d9%84%d9%86%d8%aa%d8%b1%d8%a7/",
+          "title": {
+            "rendered": "بررسی هیوندای النترا | منطقه آزاد انزلی"
+          },
+          "featured_media": 6045
+        },
+        {
+          "id": 6005,
+          "date": "2026-02-24T14:04:45",
+          "modified": "2026-05-10T16:54:46",
+          "slug": "%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-kia-k5-%d8%aa%d9%88%d8%b1%d8%a8%d9%88",
+          "link": "https://mehrkhodro.co/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-kia-k5-%d8%aa%d9%88%d8%b1%d8%a8%d9%88/",
+          "title": {
+            "rendered": "بررسی کیا K5 توربو | منطقه آزاد انزلی"
+          },
+          "featured_media": 6046
+        }
+      ]
+    },
+    {
+      "type": "car",
+      "total": null,
+      "records": [
+        {
+          "id": 6485,
+          "date": "2026-08-05T11:44:44",
+          "modified": "2026-08-05T12:23:16",
+          "slug": "attrage",
+          "link": "https://mehrkhodro.co/car/attrage/",
+          "title": {
+            "rendered": "میتسوبیشی اتریج | MITSUBISHI ATTRAGE"
+          },
+          "featured_media": 6493
+        },
+        {
+          "id": 6440,
+          "date": "2026-06-28T15:03:52",
+          "modified": "2026-07-08T14:02:12",
+          "slug": "k4",
+          "link": "https://mehrkhodro.co/car/k4/",
+          "title": {
+            "rendered": "کیا KIA K4 | K4"
+          },
+          "featured_media": 6444
+        },
+        {
+          "id": 6418,
+          "date": "2026-06-22T14:25:08",
+          "modified": "2026-08-22T13:23:23",
+          "slug": "changan-x5-plus",
+          "link": "https://mehrkhodro.co/car/changan-x5-plus/",
+          "title": {
+            "rendered": "چانگان CHANGAN X5 PLUS | X5 PLUS"
+          },
+          "featured_media": 6511
+        },
+        {
+          "id": 6347,
+          "date": "2026-06-04T09:12:14",
+          "modified": "2026-06-15T11:37:57",
+          "slug": "outlander-p",
+          "link": "https://mehrkhodro.co/car/outlander-p/",
+          "title": {
+            "rendered": "میتسوبیشی اوتلندر | MITSUBISHI OUTLANDER P"
+          },
+          "featured_media": 6351
+        },
+        {
+          "id": 6344,
+          "date": "2026-06-04T09:03:27",
+          "modified": "2026-06-15T11:38:28",
+          "slug": "outlander-h",
+          "link": "https://mehrkhodro.co/car/outlander-h/",
+          "title": {
+            "rendered": "میتسوبیشی اوتلندر | MITSUBISHI OUTLANDER H"
+          },
+          "featured_media": 6345
+        },
+        {
+          "id": 6189,
+          "date": "2026-05-16T12:05:19",
+          "modified": "2026-08-22T14:43:24",
+          "slug": "corolla",
+          "link": "https://mehrkhodro.co/car/corolla/",
+          "title": {
+            "rendered": "تویوتا کرولا | TOYOTA COROLLA"
+          },
+          "featured_media": 6210
+        },
+        {
+          "id": 5992,
+          "date": "2026-02-21T14:43:58",
+          "modified": "2026-08-22T14:58:29",
+          "slug": "qashqai",
+          "link": "https://mehrkhodro.co/car/qashqai/",
+          "title": {
+            "rendered": "نیسان قشقایی | Nissan Qashqai"
+          },
+          "featured_media": 6002
+        },
+        {
+          "id": 5971,
+          "date": "2026-02-14T15:40:26",
+          "modified": "2026-08-20T12:14:50",
+          "slug": "kx1",
+          "link": "https://mehrkhodro.co/car/kx1/",
+          "title": {
+            "rendered": "کیا KIA KX1 | KX1"
+          },
+          "featured_media": 5972
+        },
+        {
+          "id": 5951,
+          "date": "2026-02-14T14:00:01",
+          "modified": "2026-05-17T09:47:04",
+          "slug": "sportage",
+          "link": "https://mehrkhodro.co/car/sportage/",
+          "title": {
+            "rendered": "کیا اسپورتیج | KIA SPORTAGE"
+          },
+          "featured_media": 5969
+        },
+        {
+          "id": 5933,
+          "date": "2026-02-14T12:44:49",
+          "modified": "2026-05-17T10:04:24",
+          "slug": "k5",
+          "link": "https://mehrkhodro.co/car/k5/",
+          "title": {
+            "rendered": "کیا KIA K5 | K5"
+          },
+          "featured_media": 5949
+        },
+        {
+          "id": 5917,
+          "date": "2026-02-14T11:44:13",
+          "modified": "2026-08-22T13:40:25",
+          "slug": "k3",
+          "link": "https://mehrkhodro.co/car/k3/",
+          "title": {
+            "rendered": "کیا KIA K3 | K3"
+          },
+          "featured_media": 6162
+        },
+        {
+          "id": 5896,
+          "date": "2026-02-14T11:18:45",
+          "modified": "2026-05-11T14:07:17",
+          "slug": "sonata",
+          "link": "https://mehrkhodro.co/car/sonata/",
+          "title": {
+            "rendered": "هیوندای سوناتا | HYUNDAI SONATA"
+          },
+          "featured_media": 5906
+        },
+        {
+          "id": 5878,
+          "date": "2026-02-14T10:37:34",
+          "modified": "2026-08-20T12:55:38",
+          "slug": "elantra",
+          "link": "https://mehrkhodro.co/car/elantra/",
+          "title": {
+            "rendered": "هیوندای النترا | HYUNDAI ELANTRA"
+          },
+          "featured_media": 6561
+        },
+        {
+          "id": 5468,
+          "date": "2025-07-19T12:55:25",
+          "modified": "2026-08-22T11:33:52",
+          "slug": "frontlander",
+          "link": "https://mehrkhodro.co/car/frontlander/",
+          "title": {
+            "rendered": "تویوتا فرانتلندر | TOYOTA FRONTLANDER"
+          },
+          "featured_media": 6565
+        },
+        {
+          "id": 5437,
+          "date": "2025-04-21T14:55:34",
+          "modified": "2026-05-11T14:16:59",
+          "slug": "poer",
+          "link": "https://mehrkhodro.co/car/poer/",
+          "title": {
+            "rendered": "گریت وال پوئر | GWM POER"
+          },
+          "featured_media": 5438
+        },
+        {
+          "id": 5113,
+          "date": "2024-10-06T14:01:26",
+          "modified": "2026-05-11T14:17:25",
+          "slug": "x-trail",
+          "link": "https://mehrkhodro.co/car/x-trail/",
+          "title": {
+            "rendered": "نیسان ایکس تریل | NISSAN X-TRAIL"
+          },
+          "featured_media": 5114
+        },
+        {
+          "id": 5097,
+          "date": "2024-10-06T12:58:44",
+          "modified": "2026-05-11T14:17:47",
+          "slug": "highlander",
+          "link": "https://mehrkhodro.co/car/highlander/",
+          "title": {
+            "rendered": "تویوتا هایلندر | TOYOTA HIGHLANDER"
+          },
+          "featured_media": 5111
+        },
+        {
+          "id": 5018,
+          "date": "2024-08-31T17:15:12",
+          "modified": "2026-05-11T14:20:30",
+          "slug": "fronx",
+          "link": "https://mehrkhodro.co/car/fronx/",
+          "title": {
+            "rendered": "سوزوکی فرانکس | SUZUKI FRONX"
+          },
+          "featured_media": 5019
+        },
+        {
+          "id": 5004,
+          "date": "2024-08-31T16:48:23",
+          "modified": "2026-05-11T14:20:54",
+          "slug": "grand-vitara",
+          "link": "https://mehrkhodro.co/car/grand-vitara/",
+          "title": {
+            "rendered": "سوزوکی گرند ویتارا | SUZUKI GRAND VITARA"
+          },
+          "featured_media": 5005
+        },
+        {
+          "id": 4969,
+          "date": "2024-08-31T11:02:01",
+          "modified": "2026-05-17T09:48:16",
+          "slug": "rav4",
+          "link": "https://mehrkhodro.co/car/rav4/",
+          "title": {
+            "rendered": "تویوتا راو 4 | TOYOTA RAV4"
+          },
+          "featured_media": 4988
+        },
+        {
+          "id": 4948,
+          "date": "2024-08-31T10:32:49",
+          "modified": "2026-08-22T12:33:05",
+          "slug": "corolla-cross",
+          "link": "https://mehrkhodro.co/car/corolla-cross/",
+          "title": {
+            "rendered": "تویوتا کرولا کراس | TOYOTA COROLLA-CROSS"
+          },
+          "featured_media": 6574
+        },
+        {
+          "id": 4924,
+          "date": "2024-08-31T10:00:53",
+          "modified": "2026-05-11T14:21:54",
+          "slug": "camry",
+          "link": "https://mehrkhodro.co/car/camry/",
+          "title": {
+            "rendered": "تویوتا کمری | TOYOTA CAMRY"
+          },
+          "featured_media": 4925
+        },
+        {
+          "id": 4911,
+          "date": "2024-08-31T09:42:31",
+          "modified": "2026-05-11T14:22:10",
+          "slug": "levin",
+          "link": "https://mehrkhodro.co/car/levin/",
+          "title": {
+            "rendered": "تویوتا لوین | TOYOTA LEVIN"
+          },
+          "featured_media": 4912
+        },
+        {
+          "id": 4781,
+          "date": "2024-08-29T09:48:57",
+          "modified": "2026-06-15T14:45:23",
+          "slug": "sylphy",
+          "link": "https://mehrkhodro.co/car/sylphy/",
+          "title": {
+            "rendered": "نیسان سیلفی | NISSAN SYLPHY"
+          },
+          "featured_media": 6204
+        },
+        {
+          "id": 4583,
+          "date": "2024-08-27T10:22:54",
+          "modified": "2026-05-11T14:23:54",
+          "slug": "hilux-sr5",
+          "link": "https://mehrkhodro.co/car/hilux-sr5/",
+          "title": {
+            "rendered": "تویوتا هایلوکس TOYOTA HILUX SR5 | SR5"
+          },
+          "featured_media": 4584
+        },
+        {
+          "id": 4214,
+          "date": "2024-08-24T18:05:15",
+          "modified": "2026-05-11T14:24:45",
+          "slug": "t60-elite",
+          "link": "https://mehrkhodro.co/car/t60-elite/",
+          "title": {
+            "rendered": "T60 Elite"
+          },
+          "featured_media": 4208
+        },
+        {
+          "id": 3233,
+          "date": "2023-09-23T09:23:35",
+          "modified": "2026-05-17T09:47:56",
+          "slug": "hilux-grs",
+          "link": "https://mehrkhodro.co/car/hilux-grs/",
+          "title": {
+            "rendered": "تویوتا هایلوکس TOYOTA HILUX GRS | GRS"
+          },
+          "featured_media": 4296
+        },
+        {
+          "id": 3231,
+          "date": "2023-09-23T09:22:14",
+          "modified": "2026-05-11T14:26:06",
+          "slug": "hilux-adv",
+          "link": "https://mehrkhodro.co/car/hilux-adv/",
+          "title": {
+            "rendered": "تویوتا هایلوکس ادونچر | TOYOTA HILUX ADV"
+          },
+          "featured_media": 4291
+        },
+        {
+          "id": 1645,
+          "date": "2023-07-31T13:32:13",
+          "modified": "2026-05-11T14:29:54",
+          "slug": "l200",
+          "link": "https://mehrkhodro.co/car/l200/",
+          "title": {
+            "rendered": "L200"
+          },
+          "featured_media": 4633
+        },
+        {
+          "id": 1642,
+          "date": "2023-07-31T13:29:12",
+          "modified": "2026-05-11T14:26:55",
+          "slug": "t60-comfort",
+          "link": "https://mehrkhodro.co/car/t60-comfort/",
+          "title": {
+            "rendered": "T60 COMFORT"
+          },
+          "featured_media": 4208
+        }
+      ]
+    },
+    {
+      "type": "service",
+      "total": null,
+      "records": [
+        {
+          "id": 1397,
+          "date": "2023-07-30T17:48:06",
+          "modified": "2023-09-05T11:56:27",
+          "slug": "%d8%aa%d8%b2%d8%a6%db%8c%d9%86%d8%a7%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88",
+          "link": "https://mehrkhodro.co/service/%d8%aa%d8%b2%d8%a6%db%8c%d9%86%d8%a7%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/",
+          "title": {
+            "rendered": "تزئینات خودرو"
+          },
+          "featured_media": 2715
+        },
+        {
+          "id": 1392,
+          "date": "2023-07-30T17:44:09",
+          "modified": "2023-09-05T11:56:26",
+          "slug": "1392",
+          "link": "https://mehrkhodro.co/service/1392/",
+          "title": {
+            "rendered": "برق خودرو"
+          },
+          "featured_media": 2716
+        },
+        {
+          "id": 1384,
+          "date": "2023-07-30T17:34:24",
+          "modified": "2023-09-05T11:56:25",
+          "slug": "%d8%af%db%8c%d8%a8%d8%a7%da%af-%d9%88-%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c",
+          "link": "https://mehrkhodro.co/service/%d8%af%db%8c%d8%a8%d8%a7%da%af-%d9%88-%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c/",
+          "title": {
+            "rendered": "دیباگ و عیب یابی"
+          },
+          "featured_media": 2717
+        },
+        {
+          "id": 1380,
+          "date": "2023-07-30T15:55:36",
+          "modified": "2023-09-05T11:56:23",
+          "slug": "%d8%aa%d8%ba%db%8c%db%8c%d8%b1-%d8%b1%d9%86%da%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88",
+          "link": "https://mehrkhodro.co/service/%d8%aa%d8%ba%db%8c%db%8c%d8%b1-%d8%b1%d9%86%da%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/",
+          "title": {
+            "rendered": "تغییر رنگ خودرو"
+          },
+          "featured_media": 2720
+        },
+        {
+          "id": 1376,
+          "date": "2023-07-30T15:51:40",
+          "modified": "2023-09-05T11:56:19",
+          "slug": "%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%d9%88%d8%a7%d8%b4",
+          "link": "https://mehrkhodro.co/service/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%d9%88%d8%a7%d8%b4/",
+          "title": {
+            "rendered": "خدمات کارواش"
+          },
+          "featured_media": 2721
+        },
+        {
+          "id": 1371,
+          "date": "2023-07-30T15:48:28",
+          "modified": "2023-09-05T11:57:10",
+          "slug": "%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c",
+          "link": "https://mehrkhodro.co/service/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c/",
+          "title": {
+            "rendered": "تعمیرات تخصصی"
+          },
+          "featured_media": 2725
+        },
+        {
+          "id": 170,
+          "date": "2023-07-21T11:59:16",
+          "modified": "2023-09-05T11:56:13",
+          "slug": "%d8%aa%d8%b9%d9%88%db%8c%d8%b6-%d8%b1%d9%88%d8%ba%d9%86",
+          "link": "https://mehrkhodro.co/service/%d8%aa%d8%b9%d9%88%db%8c%d8%b6-%d8%b1%d9%88%d8%ba%d9%86/",
+          "title": {
+            "rendered": "تعویض روغن"
+          },
+          "featured_media": 2723
+        }
+      ]
+    },
+    {
+      "type": "notifications",
+      "total": null,
+      "records": [
+        {
+          "id": 5423,
+          "date": "2025-04-12T09:32:34",
+          "modified": "2025-04-12T09:32:36",
+          "slug": "%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%81%d8%b1%d9%88%d8%b4-%da%a9%d8%af-03",
+          "link": "https://mehrkhodro.co/notifications/%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%81%d8%b1%d9%88%d8%b4-%da%a9%d8%af-03/",
+          "title": {
+            "rendered": "بخشنامه فروش کد: 03"
+          },
+          "featured_media": 5424
+        },
+        {
+          "id": 4990,
+          "date": "2024-08-31T12:10:01",
+          "modified": "2024-08-31T21:44:30",
+          "slug": "%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%da%a9%d8%af02",
+          "link": "https://mehrkhodro.co/notifications/%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%da%a9%d8%af02/",
+          "title": {
+            "rendered": "بخشنامه فروش کد:02"
+          },
+          "featured_media": 4996
+        },
+        {
+          "id": 4498,
+          "date": "2024-08-26T12:35:33",
+          "modified": "2024-08-28T16:49:59",
+          "slug": "%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%81%d8%b1%d9%88%d8%b4-%da%a9%d8%af01",
+          "link": "https://mehrkhodro.co/notifications/%d8%a8%d8%ae%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%81%d8%b1%d9%88%d8%b4-%da%a9%d8%af01/",
+          "title": {
+            "rendered": "بخشنامه فروش کد:01"
+          },
+          "featured_media": 4499
+        },
+        {
+          "id": 3102,
+          "date": "2024-08-07T14:19:00",
+          "modified": "2024-08-24T20:14:24",
+          "slug": "%d9%be%db%8c%d8%a7%d9%85-%d9%85%d8%af%db%8c%d8%b1%d8%b9%d8%a7%d9%85%d9%84-%d8%b4%d8%b1%da%a9%d8%aa",
+          "link": "https://mehrkhodro.co/notifications/%d9%be%db%8c%d8%a7%d9%85-%d9%85%d8%af%db%8c%d8%b1%d8%b9%d8%a7%d9%85%d9%84-%d8%b4%d8%b1%da%a9%d8%aa/",
+          "title": {
+            "rendered": "پیام مدیر عامل شرکت مهر خودروی ایرانیان"
+          },
+          "featured_media": 4303
+        }
+      ]
+    }
+  ]
+}

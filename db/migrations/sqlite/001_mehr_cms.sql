@@ -1,0 +1,11 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE IF NOT EXISTS cms_users (id TEXT PRIMARY KEY, username TEXT NOT NULL UNIQUE, password_hash TEXT NOT NULL, status TEXT NOT NULL DEFAULT 'active', created_at TEXT NOT NULL, updated_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS cms_roles (id TEXT PRIMARY KEY, code TEXT NOT NULL UNIQUE, title TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS cms_user_roles (user_id TEXT NOT NULL REFERENCES cms_users(id), role_id TEXT NOT NULL REFERENCES cms_roles(id), PRIMARY KEY(user_id, role_id));
+CREATE TABLE IF NOT EXISTS cms_documents (id TEXT PRIMARY KEY, kind TEXT NOT NULL, slug TEXT NOT NULL, locale TEXT NOT NULL DEFAULT 'fa-IR', status TEXT NOT NULL DEFAULT 'draft', published_revision_id TEXT, created_by TEXT NOT NULL, created_at TEXT NOT NULL, updated_at TEXT NOT NULL, UNIQUE(kind, slug, locale));
+CREATE TABLE IF NOT EXISTS cms_document_revisions (id TEXT PRIMARY KEY, document_id TEXT NOT NULL REFERENCES cms_documents(id), revision_no INTEGER NOT NULL, body_json TEXT NOT NULL, seo_json TEXT, change_note TEXT, created_by TEXT NOT NULL, created_at TEXT NOT NULL, UNIQUE(document_id, revision_no));
+CREATE TABLE IF NOT EXISTS cms_navigation_items (id TEXT PRIMARY KEY, location TEXT NOT NULL, label TEXT NOT NULL, href TEXT NOT NULL, sort_order INTEGER NOT NULL, status TEXT NOT NULL DEFAULT 'draft', revision_no INTEGER NOT NULL DEFAULT 1, updated_by TEXT NOT NULL, updated_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS cms_media (id TEXT PRIMARY KEY, storage_key TEXT NOT NULL UNIQUE, mime_type TEXT NOT NULL, bytes INTEGER NOT NULL, alt_text TEXT, rights_status TEXT NOT NULL, status TEXT NOT NULL DEFAULT 'draft', uploaded_by TEXT NOT NULL, created_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS cms_redirects (id TEXT PRIMARY KEY, source_path TEXT NOT NULL UNIQUE, destination_path TEXT NOT NULL, status_code INTEGER NOT NULL DEFAULT 308, status TEXT NOT NULL DEFAULT 'published', updated_by TEXT NOT NULL, updated_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS cms_audit_events (id TEXT PRIMARY KEY, actor_id TEXT NOT NULL, action TEXT NOT NULL, entity_type TEXT NOT NULL, entity_id TEXT NOT NULL, before_json TEXT, after_json TEXT, reason TEXT, created_at TEXT NOT NULL);
+CREATE INDEX IF NOT EXISTS cms_audit_entity ON cms_audit_events(entity_type, entity_id, created_at);

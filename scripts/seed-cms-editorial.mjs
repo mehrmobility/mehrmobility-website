@@ -1,0 +1,8 @@
+import { DatabaseSync } from "node:sqlite";
+import { randomUUID } from "node:crypto";
+import { readFile } from "node:fs/promises";
+import { join } from "node:path";
+const root=process.cwd(), entries=JSON.parse(await readFile(join(root,"lib/mehr-site/editorial.json"),"utf8"));
+const db=new DatabaseSync(join(root,"data/mehr-cms.local.db")), now=new Date().toISOString();
+const kindFor={posts:"article",notifications:"notice",service:"service",pages:"page"}; let seeded=0;
+try { db.exec("BEGIN"); const exists=db.prepare("SELECT id FROM cms_documents WHERE kind=? AND slug=?"), addDoc=db.prepare("INSERT INTO cms_documents (id,kind,slug,locale,status,published_revision_id,created_by,created_at,updated_at) VALUES (?,?,?,?,?,?,?,?,?)"), addRev=db.prepare("INSERT INTO cms_document_revisions (id,document_id,revision_no,body_json,seo_json,created_by,created_at) VALUES (?,?,?,?,?,?,?)"), audit=db.prepare("INSERT INTO cms_audit_events (id,actor_id,action,entity_type,entity_id,created_at) VALUES (?,?,?,?,?,?)"); for(const entry of entries){const kind=kindFor[entry.type];if(!kind||exists.get(kind,entry.slug))continue;const id=`${kind}-${entry.id}`,revision=randomUUID();addDoc.run(id,kind,entry.slug,"fa-IR","published",revision,"system-seed",now,now);addRev.run(revision,id,1,JSON.stringify({entry}),JSON.stringify({title:entry.title,description:entry.excerpt||""}),"system-seed",now);audit.run(randomUUID(),"system-seed","editorial_migrated",kind,id,now);seeded++;} db.exec("COMMIT");console.log(`Seeded ${seeded} editorial documents.`);}catch(error){try{db.exec("ROLLBACK")}catch{}throw error}finally{db.close()}

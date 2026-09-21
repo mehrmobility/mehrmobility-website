@@ -1,0 +1,5 @@
+import { NextResponse } from "next/server";
+import { getAdminSession, hasAdminPermission } from "@/lib/mehr-site/admin-auth";
+import { getSiteManagement, saveNavigation } from "@/lib/mehr-site/site-management";
+export async function GET() { const session = await getAdminSession(); if (!session) return NextResponse.json({ error: "unauthorized" }, { status: 401 }); if (!hasAdminPermission(session, "readCms")) return NextResponse.json({ error: "forbidden" }, { status: 403 }); return NextResponse.json(await getSiteManagement(), { headers: { "cache-control": "no-store" } }); }
+export async function PUT(request: Request) { const session = await getAdminSession(); if (!session) return NextResponse.json({ error: "unauthorized" }, { status: 401 }); if (!hasAdminPermission(session, "manageNavigation")) return NextResponse.json({ error: "forbidden" }, { status: 403 }); const body = await request.json().catch(() => null); try { return NextResponse.json(await saveNavigation(body?.mainNavigation, session.username)); } catch { return NextResponse.json({ error: "invalid_or_writes_disabled" }, { status: 400 }); } }
